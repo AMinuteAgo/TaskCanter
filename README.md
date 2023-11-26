@@ -23,5 +23,7 @@ How to Use:
 
 Clone the repository.
 Install dependencies using pip install -r requirements.txt.
+
 Run the application with python3 TaskCanter.py.
+
 TaskCanter empowers you to take control of your tasks and deadlines, providing a robust solution for efficient task management. Download, customize, and tailor it to your workflow for a personalized productivity experience.
